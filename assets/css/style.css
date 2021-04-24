@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
-  border-radius: 25px;
+  border:none
+  
 }
 
 /* brand color palette */
@@ -153,7 +154,10 @@ main {
 }
 span:hover {
   font-size: 20px;
-  color: orangered;
+  color:#172029;
+}
+.i.fa {
+  background: url("https://github.com/ramflorez/Week_Scheduler");
 }
 .flex-item {
   border: 5px solid var(--secondary);
