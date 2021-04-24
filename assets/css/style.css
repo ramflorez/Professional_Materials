@@ -151,7 +151,10 @@ main {
   justify-content: center;
   align-items: center;
 }
-
+span:hover {
+  font-size: 20px;
+  color: orangered;
+}
 .flex-item {
   border: 5px solid var(--secondary);
  
@@ -175,6 +178,7 @@ main {
     max-width:auto;
     height:auto;
     flex-basis: 100%;
+    border: none;
 }
 
 .flex-item:hover {
