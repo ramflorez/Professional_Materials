@@ -177,7 +177,9 @@ main {
     flex-basis: 100%;
 }
 
-.
+.flex-item:hover {
+  background-color: rgba(143, 135, 135, 0.3);
+}
 
 .flex-item div {
   background-color: var(--secondary);
@@ -220,13 +222,16 @@ main {
 
 .best_paws{
   background-image: url("../images/Best_paws.png");
+
 }
 .week_scheduler{
   background-image: url("../images/wkdsch.png");
+  background-repeat: no-repeat;
 }
 
 .weather_dashboard {
   background-image: url("../images/After_click.png");
+  background-repeat: no-repeat;
 }
 
 
