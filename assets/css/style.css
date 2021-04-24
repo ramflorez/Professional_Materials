@@ -154,7 +154,7 @@ main {
 
 .flex-item {
   border: 5px solid var(--secondary);
-  background-color: var(--primary);
+ 
   color: var(--tertiary);
   min-height: 500px;
   width: auto;
@@ -179,6 +179,7 @@ main {
 
 .flex-item:hover {
   background-color: rgba(143, 135, 135, 0.3);
+  background-size: 1270px;
 }
 
 .flex-item div {
@@ -222,6 +223,7 @@ main {
 
 .best_paws{
   background-image: url("../images/Best_paws.png");
+  background-repeat: no-repeat;
 
 }
 .week_scheduler{
