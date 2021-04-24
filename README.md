@@ -11,15 +11,15 @@ Github files .
 
 This is a snapshop of the header of the deployed page.
 
-<img src="./assests/images/header.png">
+<img src="./assets/images/header.png">
 
 There are snapshops of the feautured project and assignments in the deployed page.
 
-<img src="./assests/images/wk1.png">
+<img src="./assets/images/wk1.png">
 
-<img src="./assests/images/wk2.png">
+<img src="./assets/images/wk2.png">
 
-<img src="./assests/images/wk3.png">
+<img src="./assets/images/wk3.png">
 
-<img src="./assests/images/Contact_info.png">
+<img src="./assets/images/Contact_info.png">
 
