@@ -13,7 +13,7 @@ This is a snapshop of the header of the deployed page.
 
 <img src="./assets/images/header.png">
 
-There are snapshops of the featured project and assignments in the deployed page. Notice the Github icon followed to the link to the Github files.
+These are snapshops of the featured project and assignments from the deployed page. Notice the Github icon followed by the link to the Github files.
 
 <img src="./assets/images/wk1.png">
 
@@ -23,5 +23,5 @@ There are snapshops of the featured project and assignments in the deployed page
 
 Snapshot of the contact information section.
 
-<img src="./assets/images/Contact_info.png">
+<img src="./assets/images/Contc_info.png">
 
