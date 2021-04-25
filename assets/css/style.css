@@ -156,9 +156,8 @@ span:hover {
   font-size: 20px;
   color:#172029;
 }
-.i.fa {
-  background: url("https://github.com/ramflorez/Week_Scheduler");
-}
+
+
 .flex-item {
   border: 5px solid var(--secondary);
  
