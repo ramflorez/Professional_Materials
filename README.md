@@ -13,7 +13,7 @@ This is a snapshop of the header of the deployed page.
 
 <img src="./assets/images/header.png">
 
-These are snapshops of the featured project and assignments from the deployed page. Notice the Github icon followed by the link to the Github files (every snapshot links to the deployed pages).
+These are snapshops of the featured project and assignments from the deployed page. Notice the Github icon followed by the link to the Github files. In addition, every snapshot links to the deployed pages.
 
 <img src="./assets/images/project1.png">
 
